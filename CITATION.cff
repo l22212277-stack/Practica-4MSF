@@ -1,1 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
+cff-version: 1.2.0
+title: MATLAB; 
+message: lenguaje m; 
+type: software
+authors:
+  - given-names: Alberto
+    family-names: Villalobos V.
+    email: L22212277@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: https://github.com/l22212277-stack/Practica-4MSF
+keywords:
+-Sistema EDOs
+-Modelo Fisiologico
+-Regeneración de globulos rojos
+-Método Euler
+-Transfusión sanguinea
+
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-7'
